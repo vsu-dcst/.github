@@ -54,9 +54,9 @@ Adopted by the department on **22 January 2025**.
 
 ```mermaid
 flowchart TD
-    DEAN["<b>Dr. Jude B. Rola</b><br/>Dean, Faculty of Computing<br/>Associate Professor V"]
-    HEAD["<b>Dr. Magdalene C. Unajan</b><br/>Head<br/>Department of Computer Science and Technology<br/>Associate Professor I"]
-    FAC["Regular faculty<br/>8 members"]
+    DEAN["<b>Dr. Jude B. Rola</b><br/><i>Dean, Faculty of Computing</i>"]
+    HEAD["<b>Dr. Magdalene C. Unajan</b><br/><i>Head, Department of Computer Science and Technology</i>"]
+    FAC["Regular faculty<br/>10 members"]
     PTC["Part-time faculty<br/>3 members"]
     STF["Staff<br/>3 members"]
 
@@ -70,6 +70,8 @@ flowchart TD
 
 | Faculty member | Rank |
 | -------------- | ---- |
+| Dr. Jude B. Rola | Associate Professor V |
+| Dr. Magdalene C. Unajan | Associate Professor I |
 | Dr. Jonah Flor O. Maaghop | Associate Professor III |
 | Mr. Michael Anthony Jay B. Regis | Associate Professor II |
 | Mrs. Maricel V. Calhoun | Assistant Professor II |
